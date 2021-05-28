@@ -1,8 +1,6 @@
 import streamlit as st
 import datetime
 import requests
-import pandas as pd
-import numpy as np
 
 st.markdown('''
 # How much is my taxi fare in NY?
